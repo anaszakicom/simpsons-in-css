@@ -11,6 +11,8 @@
 </head>
 <body>
 
+<!-- change stome stuff on the Fleet Manager Development service -->
+
 <?php
 
 require("{$_SERVER['DOCUMENT_ROOT']}/php/globals.php");
